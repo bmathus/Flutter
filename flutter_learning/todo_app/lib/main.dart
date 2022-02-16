@@ -15,7 +15,6 @@ void main(List<String> args) {
   //  DeviceOrientation.portraitDown,
   //]);
   runApp(App());
-  print("hi github");
 }
 
 class App extends StatelessWidget {
